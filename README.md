@@ -54,6 +54,6 @@
 
 15. My very first script)
 ```
-  [link] (script1.sh)
+  [link] (https://github.com/LyubovMaximova/terminal1/blob/main/myscript.sh)
 ```
 
