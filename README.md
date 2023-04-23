@@ -1,6 +1,6 @@
 # Linux terminal (GitBash) commands Part 1
 
-1. Look at where am I
+1. See where am I
 
 ```
   pwd
@@ -44,4 +44,10 @@
 13. Move 2 files to another folder
 ```
   mv
+```
+
+14. View date
+
+```
+  date
 ```
