@@ -1,1 +1,47 @@
-# terminal1
+# Linux terminal (GitBash) commands Part 1
+
+1. Look at where am I
+
+```
+  pwd
+  
+```
+2. Create a folder
+```
+  mkdir
+```
+  
+3. Go to the folder
+```
+  cd
+```
+
+4. Create 3 folders
+```
+  mkdir
+```
+
+5. Go to any folder
+```
+  cd
+```
+
+6. Create 5 files
+```
+  touch 
+```
+
+7. Create 3 folders
+```
+  mkdir 
+```
+
+8. Output the content of the folder
+```
+  ls -la
+```
+
+13. Move 2 files to another folder
+```
+  mv
+```
